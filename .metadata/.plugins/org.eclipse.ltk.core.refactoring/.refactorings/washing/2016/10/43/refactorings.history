@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename local variable &apos;rte&apos; in &apos;todo.SpinController.perform()&apos; to &apos;rtEvent&apos;&#x0A;- Original project: &apos;washing&apos;&#x0A;- Original element: &apos;todo.SpinController.perform().rte&apos;&#x0A;- Renamed element: &apos;rte&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;rte&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;todo{SpinController.java[SpinController~perform@rte!490!522!498!500!QRTEvent;!0!false" name="rtEvent" references="true" stamp="1476614303006" version="1.0"/>
-</session>
